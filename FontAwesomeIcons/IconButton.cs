@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Diagnostics;
+using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Windows.Forms;
-using System.ComponentModel;
 
 namespace FontAwesomeIcons
 {
@@ -18,7 +17,7 @@ namespace FontAwesomeIcons
         /// Initializes a new instance of the <see cref="IconButton" /> class using default values - star icon, normal color = gray, hover color = black.
         /// </summary>
         public IconButton()
-            : this(IconType.Star, 16, Color.DimGray, Color.Black, false, null)
+            : this(IconType.Fa_star, 16, Color.DimGray, Color.Black, false, null)
         {
 
         }
@@ -184,7 +183,7 @@ namespace FontAwesomeIcons
         #region Private
 
         #region Properties & Attributes
-        private IconType _iconType = IconType.Star;
+        private IconType _iconType = IconType.Fa_star;
         private string _tooltip = null;
         private Color _activeColor = Color.Black;
         private Color _inActiveColor = Color.Black;

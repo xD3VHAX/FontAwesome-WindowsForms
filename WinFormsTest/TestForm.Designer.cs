@@ -62,7 +62,7 @@
             // 
             this.iconButton4.ActiveColor = System.Drawing.Color.Red;
             this.iconButton4.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton4.IconType = FontAwesomeIcons.IconType.EnvelopeO;
+            this.iconButton4.IconType = FontAwesomeIcons.IconType.Fa_envelope_o;
             this.iconButton4.InActiveColor = System.Drawing.Color.Orange;
             this.iconButton4.Location = new System.Drawing.Point(255, 191);
             this.iconButton4.Name = "iconButton4";
@@ -76,7 +76,7 @@
             // 
             this.iconButton3.ActiveColor = System.Drawing.Color.Black;
             this.iconButton3.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton3.IconType = FontAwesomeIcons.IconType.User;
+            this.iconButton3.IconType = FontAwesomeIcons.IconType.Fa_arrow_circle_up;
             this.iconButton3.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton3.Location = new System.Drawing.Point(170, 179);
             this.iconButton3.Name = "iconButton3";
@@ -89,7 +89,7 @@
             // 
             this.iconButton2.ActiveColor = System.Drawing.Color.Black;
             this.iconButton2.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton2.IconType = FontAwesomeIcons.IconType.Music;
+            this.iconButton2.IconType = FontAwesomeIcons.IconType.Fa_music;
             this.iconButton2.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton2.Location = new System.Drawing.Point(195, 86);
             this.iconButton2.Name = "iconButton2";
@@ -102,7 +102,7 @@
             // 
             this.iconButton1.ActiveColor = System.Drawing.Color.Black;
             this.iconButton1.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton1.IconType = FontAwesomeIcons.IconType.Star;
+            this.iconButton1.IconType = FontAwesomeIcons.IconType.Fa_star;
             this.iconButton1.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton1.Location = new System.Drawing.Point(114, 28);
             this.iconButton1.Name = "iconButton1";
@@ -115,7 +115,7 @@
             // 
             this.iconButton5.ActiveColor = System.Drawing.Color.YellowGreen;
             this.iconButton5.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton5.IconType = FontAwesomeIcons.IconType.Star;
+            this.iconButton5.IconType = FontAwesomeIcons.IconType.Fa_star;
             this.iconButton5.InActiveColor = System.Drawing.Color.OliveDrab;
             this.iconButton5.Location = new System.Drawing.Point(12, 86);
             this.iconButton5.Name = "iconButton5";
@@ -128,7 +128,7 @@
             // 
             this.iconButton6.ActiveColor = System.Drawing.Color.Black;
             this.iconButton6.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton6.IconType = FontAwesomeIcons.IconType.Star;
+            this.iconButton6.IconType = FontAwesomeIcons.IconType.Fa_star;
             this.iconButton6.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton6.Location = new System.Drawing.Point(-1, 0);
             this.iconButton6.Name = "iconButton6";
@@ -141,7 +141,7 @@
             // 
             this.iconButton7.ActiveColor = System.Drawing.Color.Black;
             this.iconButton7.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton7.IconType = FontAwesomeIcons.IconType.Search;
+            this.iconButton7.IconType = FontAwesomeIcons.IconType.Fa_search;
             this.iconButton7.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton7.Location = new System.Drawing.Point(12, 0);
             this.iconButton7.Name = "iconButton7";
@@ -154,7 +154,7 @@
             // 
             this.iconButton8.ActiveColor = System.Drawing.Color.Black;
             this.iconButton8.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton8.IconType = FontAwesomeIcons.IconType.Cog;
+            this.iconButton8.IconType = FontAwesomeIcons.IconType.Fa_cog;
             this.iconButton8.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton8.Location = new System.Drawing.Point(27, 0);
             this.iconButton8.Name = "iconButton8";
@@ -167,7 +167,7 @@
             // 
             this.iconButton9.ActiveColor = System.Drawing.Color.Black;
             this.iconButton9.BackColor = System.Drawing.Color.Transparent;
-            this.iconButton9.IconType = FontAwesomeIcons.IconType.Folder;
+            this.iconButton9.IconType = FontAwesomeIcons.IconType.Fa_folder;
             this.iconButton9.InActiveColor = System.Drawing.Color.DimGray;
             this.iconButton9.Location = new System.Drawing.Point(42, 0);
             this.iconButton9.Name = "iconButton9";
